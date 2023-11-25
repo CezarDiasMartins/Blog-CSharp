@@ -1,0 +1,104 @@
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Blog.exe
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Blog.deps.json
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Blog.runtimeconfig.json
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Blog.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Blog.pdb
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.csproj.AssemblyReference.cache
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.AssemblyInfoInputs.cache
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.AssemblyInfo.cs
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.csproj.CoreCompileInputs.cache
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\refint\Blog.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.pdb
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.genruntimeconfig.cache
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\ref\Blog.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Azure.Core.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Azure.Identity.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Dapper.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Dapper.Contrib.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\System.Memory.Data.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WorkspacesCS\3 - Acesso à dados com .NET, C#, Dapper e SQL Server\04 - Mão na massa\Blog\obj\Debug\net7.0\Blog.csproj.CopyComplete
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Blog.exe
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Blog.deps.json
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Blog.runtimeconfig.json
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Blog.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Blog.pdb
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Azure.Core.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Azure.Identity.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Dapper.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Dapper.Contrib.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\System.Memory.Data.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkspacesCS\3-Blog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.csproj.AssemblyReference.cache
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.AssemblyInfoInputs.cache
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.AssemblyInfo.cs
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.csproj.CoreCompileInputs.cache
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.csproj.CopyComplete
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.dll
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\refint\Blog.dll
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.pdb
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\Blog.genruntimeconfig.cache
+C:\WorkspacesCS\3-Blog\obj\Debug\net7.0\ref\Blog.dll
